@@ -1,0 +1,42 @@
+staff_id,staff_name,dept_name,max_hrs,allocated_hrs,first_hr,morning_hrs,evening_hrs
+110,Dr. T. T. Mirnalinee,CSE,10,0,0,0,0
+111,Dr. Chitra Babu,CSE,10,0,0,0,0
+112,Dr. D. Venkatavara Prasad,CSE,10,0,0,0,0
+113,Dr. A. Chamundeswari,CSE,10,0,0,0,0
+114,Dr. R. Kanchana,CSE,10,0,0,0,0
+115,Dr. B. Bharathi,CSE,10,0,0,0,0
+116,Dr. J. Suresh,CSE,10,0,0,0,0
+117,Dr. V. S. Felix Enigo,CSE,10,0,0,0,0
+118,Dr. D. Thenmozhi,CSE,10,0,0,0,0
+119,Dr. G. Raghuraman,CSE,10,0,0,0,0
+120,Dr. J. Bhuvana,CSE,10,0,0,0,0
+121,Dr. S. Kavitha,CSE,10,0,0,0,0
+122,Dr. P. Mirunalini,CSE,10,0,0,0,0
+125,Dr. B. Prabavathy,CSE,10,0,0,0,0
+126,Dr. K. Madheswari,CSE,10,0,0,0,0
+127,Dr. K. R. Sarath Chandran,CSE,10,0,0,0,0
+128,Dr. N. Sujaudeen,CSE,10,0,0,0,0
+129,Dr. M. Saritha,CSE,10,0,0,0,0
+131,Dr. H. Shahul Hamead,CSE,10,0,0,0,0
+133,Dr. R. Priyadarshini,CSE,10,0,0,0,0
+134,Dr. S. V. Jansi Rani,CSE,10,0,0,0,0
+135,Dr. Y. V. Lokeswari,CSE,10,0,0,0,0
+136,Dr. V. Balasubramanian,CSE,10,0,0,0,0
+137,Dr. S. Rajalakshmi,CSE,10,0,0,0,0
+138,Ms. S. Lakshmi Priya,CSE,10,0,0,0,0
+139,Dr. S. Angel Deborah,CSE,10,0,0,0,0
+301,Dr. S. Masila Mosses Kennedy,PHY,10,0,0,0,0
+302,Dr. G. Anandha Babu,PHY,10,0,0,0,0
+303,Dr. Julie Charles,PHY,10,0,0,0,0
+304,Dr. Nafis Ahmed,PHY,10,0,0,0,0
+305,Dr. S. Singara vadivelu,PHY,10,0,0,0
+307,Dr. P. Balaji Bhargav,PHY,10,0,0,0,0
+308,Dr. A. Chandra sekara,PHY,10,0,0,0,0
+309,Dr. Senthil Pandian M,PHY,10,0,0,0,0
+201,Dr. I. Jaya karanAmalraj,MATH,10,0,0,0,0
+202,Dr. N. Padmapriya,MATH,10,0,0,0,0
+203,Dr. R. Sundareswaran,MATH,10,0,0,0
+204,Dr. M. Shunmuga Priya,MATH,10,0,0,0,0
+205,Dr. S. Yugesh,MATH,10,0,0,0,0
+206,Dr. T. M. Rajalaxmi,MATH,10,0,0,0,0
+207,Dr. B. Sivakumar,MATH,10,0,0,0,0
